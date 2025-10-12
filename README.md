@@ -1,117 +1,116 @@
-## Hi there 👋
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=800&center=true&vCenter=true&color=EF4444&width=700&lines=Hey%2C+I'm+Your+Name+%F0%9F%91%8B;I+build+things+for+the+web;I+love+DX%2C+automation%2C+and+clean+UIs" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2800&pause=800&center=true&vCenter=true&color=EF4444&width=700&lines=Hey%2C+I'm+Nicholas+Signore+%F0%9F%91%8B;Apprentice+Developer+Building+Backend+Skills;Loving+Java%2C+Spring+Boot+%26+Vue.js" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img alt="followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=flat-square&color=ef4444">
+  <a href="https://github.com/nicholassignore">
+    <img alt="followers" src="https://img.shields.io/github/followers/nicholassignore?logo=github&style=flat-square&color=ef4444">
   </a>
-  <a href="https://wakatime.com/@YOUR_USERNAME">
-    <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-active-ef4444?style=flat-square&logo=wakatime&logoColor=white">
-  </a>
-  <a href="mailto:you@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/contact-me-b91c1c?style=flat-square">
+  <a href="https://wakatime.com/@nicholassignore">
+    <img alt="WakaTime" src="https://img.shields.io/badge/WakaTime-tracking-ef4444?style=flat-square&logo=wakatime&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🔥 About me
+### 🔥 About Me
 
-- 🚀 Frontend & tooling nerd focused on developer experience  
-- 🧰 Current stack: **TypeScript**, **React**, **Node**, **Tailwind**  
-- ❤️ Interests: build tooling, design systems, performance
+Hey! I'm **Nicholas**, an **apprentice developer** currently learning and growing my skills in backend development.  
+I'm passionate about **writing clean code**, exploring **scalable architectures**, and slowly mastering the art of efficient APIs.
+
+- 🌱 **Currently learning:** Go & advanced Spring Boot practices  
+- 💼 **Apprenticeship focus:** Backend and full-stack development  
+- 💬 **Favorite tools:** Java, PHP, and a sprinkle of JS  
+- 🎯 **Goal:** Build reliable backends and become fluent in cloud deployment & microservices  
 
 ---
 
-### 🧩 Tech
+### ⚙️ Tech Stack
 
+#### 🧠 Backend
 <p>
-  <img alt="TS" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square">
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-333?logo=nodedotjs&logoColor=white&style=flat-square">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0ea5e9?logo=tailwindcss&logoColor=white&style=flat-square">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square">
+  <img alt="Java" src="https://img.shields.io/badge/Java-b91c1c?logo=openjdk&logoColor=white&style=flat-square">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-ef4444?logo=springboot&logoColor=white&style=flat-square">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white&style=flat-square">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square">
 </p>
 
 ---
 
-### 📈 GitHub at a glance
+### 📊 GitHub Overview
 
 <p>
   <img
     height="170"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=cccccc&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=nicholassignore&show_icons=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=cccccc&bg_color=0d1117"
   />
   <img
     height="170"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=ef4444&text_color=cccccc&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholassignore&layout=compact&hide_border=true&title_color=ef4444&text_color=cccccc&bg_color=0d1117"
   />
 </p>
 
 ---
 
-### ⏱️ Weekly development breakdown
+### ⏱️ Weekly Development Breakdown
 
-> Updated automatically by a GitHub Action using your WakaTime API key.
+> Updated automatically using WakaTime + GitHub Action
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-### 🧭 Highlights
+### 💡 Current Focus
 
-- 🏗️ **Project A** – Short one-liner about what it does.  
-  [`repo`](https://github.com/YOUR_USERNAME/your-repo) • [`demo`](https://your-demo-url)
-
-- 🧪 **Project B** – Another one-liner.  
-  [`repo`](https://github.com/YOUR_USERNAME/your-repo)
+- Deepening my **Spring Boot** knowledge  
+- Exploring **Go** for high-performance services  
+- Enhancing my **Vue.js** skills for dashboards & admin UIs  
+- Learning **deployment automation** and DevOps basics
 
 ---
 
-### 🤝 Connect
+### 🧭 Small Projects
+
+- 🛠️ **Simple Blog CMS** – Built with PHP & WordPress customization  
+- 🔗 **API playground** – Learning REST + JWT auth in Java Spring Boot  
+- 🎓 **Go experiments** – Playing with concurrency and small web servers  
+
+---
+
+### 📬 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/">
+  <a href="https://www.linkedin.com/in/nicholassignore/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-ef4444?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img alt="X" src="https://img.shields.io/badge/X-follow-b91c1c?style=flat-square&logo=x&logoColor=white">
+  <a href="mailto:youremail@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-me-b91c1c?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<!-- Footer ribbon -->
+---
+
 <p align="center">
-  <img alt="divider" src="https://img.shields.io/badge/-%20-ef4444?style=for-the-badge&labelColor=0d1117">
-</p>
-
-
-<p>
   <img
     alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=fca5a5&background=0D1117&sideNums=cccccc&sideLabels=cccccc&dates=777777"
+    src="https://streak-stats.demolab.com?user=nicholassignore&hide_border=true&ring=ef4444&fire=ef4444&currStreakLabel=fca5a5&background=0D1117&sideNums=cccccc&sideLabels=cccccc&dates=777777"
   />
 </p>
 
-<!--
-**nicholassignore/nicholassignore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="divider" src="https://img.shields.io/badge/-%20-ef4444?style=for-the-badge&labelColor=0d1117">
+</p>
