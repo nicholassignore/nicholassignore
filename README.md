@@ -32,17 +32,16 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 
 ---
 
-## 🧩 Tech Toolbox
-
+## 🧩 Tech Toolbox <img src="https://img.shields.io/badge/-%20-ef4444?style=flat-square&labelColor=0d1117">
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-b91c1c?logo=openjdk&logoColor=white&style=for-the-badge">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-ef4444?logo=springboot&logoColor=white&style=for-the-badge">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-7f1d1d?logo=php&logoColor=white&style=for-the-badge">
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge">
-  <img alt="Python" src="https://img.shields.io/badge/Python-ff6b6b?logo=python&logoColor=white&style=for-the-badge">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white&style=for-the-badge">
+  <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?logo=openjdk&logoColor=white&style=for-the-badge&labelColor=0d1117">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge&labelColor=0d1117">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge&labelColor=0d1117">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge&labelColor=0d1117">
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge&labelColor=0d1117">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B&style=for-the-badge&labelColor=0d1117">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=0d1117">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=white&style=for-the-badge&labelColor=0d1117">
 </p>
 
 ---
