@@ -69,6 +69,15 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 > Updated automatically by a GitHub Action with WakaTime
 
 <!--START_SECTION:waka-->
+
+```txt
+Java       2 mins          ███████████████▒░░░░░░░░░   61.19 %
+Go         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+go.mod     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Gradle     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
