@@ -1,26 +1,18 @@
-name: Update WakaTime in Profile
-
+name: Waka Readme
 on:
-  schedule:
-    - cron: "0 6 * * *"
   workflow_dispatch:
-  push:
-    paths:
-      - "README.md"
-      - ".github/workflows/waka-readme.yml"
+  schedule:
+    - cron: "0 0 * * *"
+
+# give the job permission to push the updated README
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with WakaTime
-        uses: athul/waka-readme@v0.3.1
+      - uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKETYME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 8
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: false
-          COMMIT_MESSAGE: "chore: update WakaTime stats"
+          # (Optional) SECTION_NAME, TIME_RANGE, etc.
