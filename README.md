@@ -70,11 +70,17 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 <!--START_SECTION:waka-->
 
 ```txt
+From: 12 October 2024 - To: 12 October 2025
+
+Total Time: 4 mins
+
 Java       2 mins          ███████████████▒░░░░░░░░░   61.19 %
 Go         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
 go.mod     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Gradle     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
