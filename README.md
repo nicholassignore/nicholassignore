@@ -70,17 +70,20 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2024 - To: 12 October 2025
+From: 14 October 2024 - To: 14 October 2025
 
-Total Time: 4 mins
+Total Time: 3 hrs 22 mins
 
-Java       2 mins          ███████████████▒░░░░░░░░░   61.19 %
-Go         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-go.mod     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Gradle     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C++              1 hr 49 mins    ██████████▓░░░░░░░░░░░░░░   42.59 %
+Other            55 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+PHP              25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+C                20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+YAML             19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+C#               18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Java             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Gradle           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Go               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
