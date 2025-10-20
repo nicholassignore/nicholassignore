@@ -70,20 +70,20 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 17 October 2025
+From: 18 October 2024 - To: 18 October 2025
 
-Total Time: 8 hrs 11 mins
+Total Time: 8 hrs 56 mins
 
-Java             2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-C++              1 hr 49 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-Other            1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-JavaScript       52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-PHP              47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-YAML             35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-CSV              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-C                20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-C#               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-JSON             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Java             2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+C++              1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
+Other            1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+JavaScript       52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+PHP              47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+C#               41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+YAML             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+CSV              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+C                20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Vue.js           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
