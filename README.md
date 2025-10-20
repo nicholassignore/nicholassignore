@@ -26,7 +26,7 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 - 🧰 Exploring **Go** for concurrency and microservices
 - 💻 Maintaining and customizing **PHP / WordPress** systems
 - ⚡ Loving **Vue.js** for fast, lightweight interfaces
-- 🐍 Occasionally scripting in **Python** for automation
+- Trying out Game Development with Unity/Unreal: Currently trying out Unity + C#, but want to experiment with Unreal + C++ in future as well
 
 💬 **Dream stack:** Spring Boot + Go services with a Vue.js front layer and clean CI/CD pipelines.
 
@@ -76,12 +76,9 @@ Total Time: 8 hrs 56 mins
 
 Java             2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
 C++              1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-Other            1 hr 32 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
 JavaScript       52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
 PHP              47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 C#               41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-YAML             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-CSV              31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 C                20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 Vue.js           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
@@ -92,10 +89,10 @@ Vue.js           15 mins         ▓░░░░░░░░░░░░░░�
 
 ## 🧭 Learning Projects
 
-- 🛠️ **Blog CMS** – PHP + custom WordPress theme with modular components  
-- ⚙️ **API Sandbox** – Java Spring Boot REST service with JWT auth  
-- 🧪 **Go Playground** – CLI & microservice experiments to learn concurrency  
-- 🎨 **Vue Dashboard** – small personal dashboard for API monitoring  
+- 🛠️ **Blog CMS** – PHP + custom WordPress theme for adding and managing cooking recipes using CPT
+- ⚙️ **Postal Ticket Line Service** – Java Spring Boot REST service + Kafka for Ticket Line System
+- 🧪 **Unity Game Engine** – Just messing around trying to learn creating games.
+- 🎨 **Vue Dashboard** – Inventory Management Dashboard JS FullStack  
 
 ---
 
@@ -104,7 +101,7 @@ Vue.js           15 mins         ▓░░░░░░░░░░░░░░�
 - 🧱 Build scalable backend systems  
 - 🧭 Improve design patterns & clean code principles  
 - 🚀 Learn CI/CD & Docker basics  
-- 🎓 Become fluent in Go’s concurrency model  
+- 🎓 Become fluent in Theory 
 
 ---
 
