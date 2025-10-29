@@ -92,10 +92,10 @@ SQL              45 mins         ▓░░░░░░░░░░░░░░�
 
 ## 🧭 Learning Projects
 
-- 🛠️ **Blog CMS** – PHP + custom WordPress theme for adding and managing cooking recipes using CPT
+- 🛠️ **WP** – PHP + custom WordPress theme for local coffee shop
 - ⚙️ **Postal Ticket Line Service** – Java Spring Boot REST service + Kafka for Ticket Line System
 - 🧪 **Unity Game Engine** – Just messing around trying to learn creating games.
-- 🎨 **Vue Dashboard** – Inventory Management Dashboard JS FullStack  
+- 🎨 **JS** – Inventory Management Dashboard with JS frontend & Headless WP as backend.
 
 ---
 
