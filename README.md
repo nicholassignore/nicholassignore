@@ -70,7 +70,7 @@ I’m driven by the logic, structure, and problem-solving behind server-side dev
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2025 - To: 17 February 2026
+From: 18 February 2025 - To: 18 February 2026
 
 Total Time: 130 hrs 55 mins
 
